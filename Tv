@@ -1,0 +1,126 @@
+#EXTM3U
+*** Nacionales ***
+
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://www.apousc.org/keds/img/usg2.png",UCSG
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://www.ecotel.tv/wp-content/uploads/2015/03/Ecotel-tv-logo-nuevo.png" ,ECOTEL LOJA
+http://192.95.25.203:554/canal1/radiostation.stream/playlist.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000431128547/f5ab81dec8d00d85870e355cd83f4e6e_400x400.png" group-title="NACIONALES", TVS
+http://181.198.10.23:1935/live2/smil:teradek.smil/chunklist_w151492058_b1024000_sleng.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="Ecuador",TeleAmozanas Ecuador
+http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8?PelixMax.m3u8
+#EXTM3U 
+ #EXTINF:-1 tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/ecuavisa.jpg" group-title="CentroAmerica", Ecuavisa
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/360p/playlist.m3u8
+#EXTM3U 
+ #EXTINF:-1 tvg-logo="http://www.forosecuador.ec/imgfe/ver-canela-tv-en-vivo-online.jpg" ,CANELA TV
+http://servicioamerica.com:1935/8200/8200/chunklist_w1403035025.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR",TC HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" ,Tc Mi canal
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rts_hd_logo.png" ,RTS
+http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/chunklist_b899152.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" ,Oromar Tv
+http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="http://www.orovision.tv/web/wp-content/uploads/2016/06/Logo-Orovision-Web-2016.png" group-title="SudAmerica", OROVISION
+http://37.187.108.127:554/ecuadortv01/tv/playlist.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/tvmanabita.png" group-title="SudAmerica", MANABITA TV
+http://europa.tucableip.com:8181/tvmanabita/live/tracks-v1a1/index.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="http://cdn.tvc.com.ec/sites/common/img/logo_televicentro.png" group-title="SudAmerica", TVC
+http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://muchomejorecuador.org.ec/directorio/imgs/empresas/server/php/files/264-unsion.jpg" group-title="SudAmerica", UNSION TV
+http://api.new.livestream.com/accounts/8374118/events/2980131/live.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://www.multicanalcatamayo.com/cablevisiondondiego/images/ecuador_tv7_ec.png" group-title="SudAmerica", ECUADOR TV
+http://api.new.livestream.com/accounts/22196143/events/6576568/live.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="SudAmerica", teleamazonas
+http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
+#EXTINF:0, Las Estrellas
+http://latino-webtv.com:2082/livexd3/340_.m3u8
+#EXTINF:-1, Disney xd
+http://wowza2.mysoltv.com:1992/Latino_Disney_XD/index.m3u8
+#EXTINF:0,BOOMERANG
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3085.m3u8
+#EXTINF:0,ECU - CNT SPORTS / GOL TV FHD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/7471.m3u8
+#EXTINF:0,ECU - CNT SPORTS / GOL TV HD PPV 2
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/7472.m3u8
+#EXTINF:0,GOL TV (1080 HQ)
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3755.m3u8
+#EXTINF:0,FOX SPORTS MX
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3267.m3u8
+#EXTINF:0,FOX SPORTS 2 MX
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3268.m3u8
+#EXTINF:0,FOX SPORTS 3 MX
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/4008.m3u8
+#EXTINF:0,ESPN MX HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3258.m3u8
+#EXTINF:0,ESPN MX
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3178.m3u8
+#EXTINF:0,ESPN 2 MX
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3259.m3u8
+#EXTINF:0,ESPN 3 MX
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3260.m3u8
+#EXTINF:0,ESPN PLUS MX
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/4120.m3u8
+#EXTINF:0,WIN SPORTS HD (720)
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3057.m3u8
+#EXTINF:0,DIRECTV SPORTS 2 HD #EXTVLCOPT:network-caching=1000 http://tv.nousiptv.com:25462/live/ximena/ximena/9565.m3u8
+ #EXTINF:0,DIRECTV SPORTS PLUS HD #EXTVLCOPT:network-caching=1000 http://tv.nousiptv.com:25462/live/ximena/ximena/8520.m3u8
+#EXTINF:0,UFC FIGHT LATINOAMERICA
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3421.m3u8
+#EXTINF:0,NATGEO MUNDO
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.
+#EXTINF:0,ANIMAL PLANET #EXTVLCOPT:network-caching=1000 http://tv.nousiptv.com:25462/live/ximena/ximena/3247.m3u8
+#EXTINF:0,HISTORY 
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3234.m3u8
+#EXTINF:0,AXN 
+#EXTVLCOPT:network-caching=1000 http://tv.nousiptv.com:25462/live/ximena/ximena/3248.m3u8
+#EXTINF:0,TELEMUNDO HD
+#EXTVLCOPT:network-caching=1000 http://tv.nousiptv.com:25462/live/ximena/ximena/3794.m3u8 
+#EXTINF:0,TELEMUNDO 47 
+#EXTVLCOPT:network-caching=1000 http://tv.nousiptv.com:25462/live/ximena/ximena/3785.m3u8
+#EXTINF:0,A&amp;E 
+#EXTVLCOPT:network-caching=1000 http://tv.nousiptv.com:25462/live/ximena/ximena/3246.m3u8
+#EXTINF:0,HBO 
+#EXTVLCOPT:network-caching=1000 http://tv.nousiptv.com:25462/live/ximena/ximena/3199.m3u8 
+#EXTINF:0,HBO 2 HD 
+#EXTVLCOPT:network-caching=1000 http://tv.nousiptv.com:25462/live/ximena/ximena/3198.m3u8 
+#EXTINF:0,HBO SIGNATURE HD 
+#EXTVLCOPT:network-caching=1000 http://tv.nousiptv.com:25462/live/ximena/ximena/3197.m3u8 
+#EXTINF:0,HBO PLUS HD 
+#EXTVLCOPT:network-caching=1000 http://tv.nousiptv.com:25462/live/ximena/ximena/4003.m3u8
+#EXTINF:0,HBO ESTE HD 
+#EXTVLCOPT:network-caching=1000 http://tv.nousiptv.com:25462/live/ximena/ximena/3973.m3u8 
+#EXTINF:0,HBO FAMILY HD 
+#EXTVLCOPT:network-caching=1000 http://tv.nousiptv.com:25462/live/ximena/ximena/4017.m3u8
